@@ -1,0 +1,10 @@
+*.iml
+.idea
+
+node_modules
+.serverless
+.build
+packages/*/dist
+
+yarn-debug.log*
+yarn-error.log*
